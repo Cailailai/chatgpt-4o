@@ -10,9 +10,9 @@ ChatGPT是一个智能聊天机器人，能帮你解决各种问题，就像一�
 
 ## 三、GPT工具及国内外其他AI模型汇总
 
-一）国内GPT
+### 一）国内GPT
 
-①[givemegpt.top](http://givemegpt.top)-GPT4.0、GPT4o，支持MidJourney绘画
+①[songshugpt.com](http://songshugpt.com)-GPT4.0、GPT4o，支持MidJourney绘画
 
 ②[GPTDOG](http://GPTDOG.online)- chatgpt完全镜像站
 
@@ -22,7 +22,7 @@ ChatGPT是一个智能聊天机器人，能帮你解决各种问题，就像一�
 
 ⑤[songshugpt.com](http://songshugpt.com) - 网友共享一个账户
 
-二）国内自研大模型汇总：
+### 二）国内自研大模型汇总：
 
 ①[yiyan.baidu.com/](http://yiyan.baidu.com/) - 文心一言，百度出品
 
