@@ -1,4 +1,4 @@
-# chatgpt-4o 25年3月15日更新｜国内可用Chat GPT-4o、GPT-o3、deepseek、grok3模型中文镜像网站
+# chatgpt-4o 25年3月18日更新｜国内可用Chat GPT-4o、GPT-o3、deepseek、grok3模型中文镜像网站
 
 ## 一、ChatGPT指什么
 
